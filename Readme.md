@@ -16,6 +16,9 @@ usual data science pipeline:
 
 Contact
 Author: Ryan Park
+
 Email: parkryan0128@gmail.com
+
 LinkedIn: linkedin.com/in/parkryan0128
-GitHub: hgithub.com/parkryan0128
+
+GitHub: github.com/parkryan0128
